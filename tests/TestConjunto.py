@@ -1,5 +1,5 @@
 import unittest
-from src.logica.Conjunto import Conjunto
+from src.Logica.Conjunto import Conjunto
 
 
 class TestConjunto( unittest.TestCase ):
